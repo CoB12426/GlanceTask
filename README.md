@@ -1,6 +1,8 @@
 # GlanceTask
 A simple offline task-manager app built with Flutter.
+
 VIsualize a progress to complete it.
+
 Supported languages: Japanese, English
 
 <p float="left">
